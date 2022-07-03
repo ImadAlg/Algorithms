@@ -1,7 +1,8 @@
 # Solution for the instance Solutions/soluce_myciel4.col
 Minimum number of colors used : 5 
-Execution time :: 0.289460 
+Execution time :: 0.176075 
 Color Affectation to the nodes : 
+
 Node 0 :: 0
 Node 1 :: 1
 Node 2 :: 0
